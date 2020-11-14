@@ -10,3 +10,6 @@
 ## Geek是指极客，通常被用于形容对计算机和网络技术有狂热兴趣，并投入大量钻研的人。所以俗称为发烧友或者怪杰。
 ## 有点意思，下面这张gif可以形容我的心情；
 # ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+git add 提交第一步  git add -A
+git commit提交第二步 git commit -m
+git push提交第三步 分为第一次提交git push origin master和第+n次提交git push
